@@ -1,0 +1,21 @@
+<Solution>
+  <PropertyGroup Name="Bear" Version="2.3.0.1" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="b.png" />
+        <Image Name="bg.png" />
+        <Image Name="demo.png" />
+        <Image Name="m.png" />
+        <Image Name="num.png" />
+        <Image Name="num1.png" />
+        <Image Name="w.png" />
+        <Image Name="wc.png" />
+        <Image Name="wo.png" />
+        <Project Name="bear.csd" Type="Node" />
+        <Project Name="StartScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

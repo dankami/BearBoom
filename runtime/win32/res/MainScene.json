@@ -1,0 +1,470 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.0.1",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 10,
+            "ActionTag": 24271972,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "bg_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "num1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 264.3229,
+              "Y": 830.8705
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.413,
+              "Y": 0.8655
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 203.3229,
+            "RightMargin": 314.6771,
+            "TopMargin": 113.6295,
+            "BottomMargin": 815.3705,
+            "Tag": 11,
+            "ActionTag": 1394717761,
+            "Size": {
+              "X": 122.0,
+              "Y": 31.0
+            },
+            "Name": "num1_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bear.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 125.0294,
+              "Y": 679.0209
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.1954,
+              "Y": 0.7073
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 125.0294,
+            "RightMargin": 514.9706,
+            "TopMargin": 280.9791,
+            "BottomMargin": 679.0209,
+            "Tag": 12,
+            "ActionTag": -1246689691,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win1",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bear.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 320.7875,
+              "Y": 679.0209
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5012,
+              "Y": 0.7073
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 320.7875,
+            "RightMargin": 319.2125,
+            "TopMargin": 280.9791,
+            "BottomMargin": 679.0209,
+            "Tag": 23,
+            "ActionTag": 475191524,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win2",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bear.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 513.3228,
+              "Y": 679.0209
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.8021,
+              "Y": 0.7073
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 513.3228,
+            "RightMargin": 126.6772,
+            "TopMargin": 280.9791,
+            "BottomMargin": 679.0209,
+            "Tag": 29,
+            "ActionTag": -872447012,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win3",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bear.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 125.0294,
+              "Y": 475.3484
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.1954,
+              "Y": 0.4952
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 125.0294,
+            "RightMargin": 514.9706,
+            "TopMargin": 484.6516,
+            "BottomMargin": 475.3484,
+            "Tag": 35,
+            "ActionTag": -2133951886,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win4",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bear.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 320.7875,
+              "Y": 475.3483
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5012,
+              "Y": 0.4952
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 320.7875,
+            "RightMargin": 319.2125,
+            "TopMargin": 484.6517,
+            "BottomMargin": 475.3483,
+            "Tag": 41,
+            "ActionTag": 1125044030,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win5",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bear.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 513.3228,
+              "Y": 475.3483
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.8021,
+              "Y": 0.4952
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 513.3228,
+            "RightMargin": 126.6772,
+            "TopMargin": 484.6517,
+            "BottomMargin": 475.3483,
+            "Tag": 47,
+            "ActionTag": -871521518,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win6",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bear.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 125.0294,
+              "Y": 279.7761
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.1954,
+              "Y": 0.2914
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 125.0294,
+            "RightMargin": 514.9706,
+            "TopMargin": 680.2239,
+            "BottomMargin": 279.7761,
+            "Tag": 53,
+            "ActionTag": 320448655,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win7",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bear.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 320.7875,
+              "Y": 279.7761
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5012,
+              "Y": 0.2914
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 320.7875,
+            "RightMargin": 319.2125,
+            "TopMargin": 680.2239,
+            "BottomMargin": 279.7761,
+            "Tag": 59,
+            "ActionTag": 1709759798,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win8",
+            "ctype": "ProjectNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "bear.json",
+              "Plist": ""
+            },
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 513.3228,
+              "Y": 279.7761
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.8021,
+              "Y": 0.2914
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 513.3228,
+            "RightMargin": 126.6772,
+            "TopMargin": 680.2239,
+            "BottomMargin": 279.7761,
+            "Tag": 65,
+            "ActionTag": 1074395305,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win9",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "bear.json",
+        "bg.png",
+        "num1.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}
